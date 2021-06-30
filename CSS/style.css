@@ -151,14 +151,8 @@ to {
    margin-top: 10vh;
 }
 
-.about__img {
-    width: 10vh !important;
-    height: 20vh !important;
-    display: flex;
-    
-}
 
-.container .row i {
+.services .container .row i {
     font-size: 10vh;
     text-align: center;
 }
@@ -174,9 +168,8 @@ to {
     }
 
 .row {
-    width: 70%;
+    width: 100%;
     
-    padding-right: -100px;
 }
 
 .form-group input{
@@ -199,6 +192,9 @@ to {
  color: #fff !important;
  margin-top: 10vh !important;
 }
+
+
+/* NUESTROS SERVICIOs */
 
 .services{
     margin-top: 10vh;
